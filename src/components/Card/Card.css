@@ -1,0 +1,48 @@
+.section{
+  border-radius: .5rem;
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.1);
+  overflow: hidden;
+}
+.sectionImg{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 1rem;
+  overflow: hidden;
+} 
+.sectionImg img{
+  width: 100%;
+  height: auto;
+}
+.sectionContent{
+  display: flex;
+  flex-direction: column;
+  padding: 1rem;
+  gap: 1rem;
+}
+.sectionTitle{
+  font-size: 1.7rem;
+  font-weight: 600;
+  color: #d7a3f6;
+}
+.linkBtn{
+  display: flex;
+  align-items: center;
+  gap: .5rem;
+  font-size: .9rem;
+  width: fit-content;
+  border-radius: 2rem;
+  padding: .5rem 1rem;
+  transition: all .2s ease-in-out;
+  background: #e5e5e577;
+}
+.linkBtn:hover{
+  background: #005ade;
+  color: #e5e5e5; 
+}
+.projectTech{
+  font-size: .8rem;
+  padding:.5rem 1rem;
+  border-radius: 2rem;
+}

@@ -19,8 +19,8 @@ function App() {
     {img:privateEcommerceImg,title:"Private Ecommerce",link:"https://private-ecommerce-sandy.vercel.app/",techs:["React","Tailwind "],desc:"Take full control of your brand with a single-vendor shop that's responsive, easy to manage, and designed to give your customers a seamless shopping experience.",},
     {img:TssImg,title:"Technical Support System",link:"https://tiktuk-tss.vercel.app/",techs:["PHP","Laravel","Tailwind "],desc:"A responsive eCommerce system where customers can add items to their cart, adjust quantities with ease, and enjoy a smooth checkout experience.",},
     {img:wposImg,title:"Wpos",link:"https://wpos-lite.vercel.app/",techs:["PHP","Laravel","Tailwind "],desc:"A point-of-sale management application that works on computers and smartphones, helping you monitor and manage your business seamlessly and continuously.",},
-    {img:ceaImg,title:"CEA",link:"https://procea.netlify.app/",techs:["PHP","Laravel","Tailwind "],desc:"Automate invoices, track inventory, and keep supplier and customer accounts perfectly organized."},
-    {img:hbmsImg,title:"HBMS",link:"https://hbms-xlink.netlify.app",techs:["PHP","Laravel","Tailwind "],desc:"Handle reservations, guests, and operations in one powerful, easy-to-use platform."},
+    {img:ceaImg,title:"CEA",link:"https://cea-liart.vercel.app",techs:["PHP","Laravel","Tailwind "],desc:"Automate invoices, track inventory, and keep supplier and customer accounts perfectly organized."},
+    {img:hbmsImg,title:"HBMS",link:"https://hbms-bice.vercel.app/",techs:["PHP","Laravel","Tailwind "],desc:"Handle reservations, guests, and operations in one powerful, easy-to-use platform."},
     {img:gbtsImg,title:"GBTS",link:"https://gbts.vercel.app/",techs:["PHP","Laravel","Tailwind "],desc:"Book flights, hotels, and tours effortlessly with an all-in-one travel management platform."},
   ]
 

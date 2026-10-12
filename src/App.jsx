@@ -21,7 +21,7 @@ function App() {
     {img:wposImg,title:"Wpos",link:"https://wpos-lite.vercel.app/",techs:["PHP","Laravel","Bootstrap"],desc:"A point-of-sale management application that works on computers and smartphones, helping you monitor and manage your business seamlessly and continuously.",},
     {img:ceaImg,title:"CEA",link:"https://cea-liart.vercel.app",techs:["PHP","Laravel","Bootstrap"],desc:"Automate invoices, track inventory, and keep supplier and customer accounts perfectly organized."},
     {img:hbmsImg,title:"HBMS",link:"https://hbms-bice.vercel.app/",techs:["PHP","Laravel","Bootstrap"],desc:"Handle reservations, guests, and operations in one powerful, easy-to-use platform."},
-    {img:gbtsImg,title:"GBTS",link:"https://gbts.vercel.app/",techs:["PHP","Laravel","Bootstrap"],desc:"Book flights, hotels, and tours effortlessly with an all-in-one travel management platform."},
+    {img:gbtsImg,title:"GBTS",link:"https://gbts.vercel.app/",techs:["PHP","Laravel","Bootstrap"],desc:"Book flights, hotels, and tours effortlessly with an all-in-one travel management platform."}
     
   ]
 

@@ -8,6 +8,7 @@ import iframeImg from "./iframeImg.jpg"
 import ceaImg from "./ceaImg.jpg"
 import hbmsImg from "./hbmsImg.png"
 import gbtsImg from "./gbtsImg.jpg"
+import tosimg from "./tosimg.jpg"
 
 export {
     heroImg,
@@ -20,4 +21,5 @@ export {
     ceaImg,
     hbmsImg,
     gbtsImg,
+    tosimg
 }
